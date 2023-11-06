@@ -1,4 +1,4 @@
-const URL = "https://project4-backend-9z7z.onrender.com";
+const URL = "https://project4testbackend.onrender.com";
 
 //indexLoader => get all todos for index route
 export const indexLoader = async () => {
