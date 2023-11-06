@@ -8,7 +8,7 @@ const Index = (props) => {
   return (
     <>
       <div style={{ textAlign: "center" }}>
-        <h2>Create An Order</h2>
+        <h2>TEST APP</h2>
         <Form action="/create" method="post">
           <input type="text" name="subject" placeholder="Food" />
           <input type="text" name="details" placeholder="Drinks" />
